@@ -9,3 +9,4 @@ NuGet package designed to make LLMs, RAG, and Agents first-class citizens in .NE
 // guard against empty input
 // drop an unused branch
 // clarify the control flow
+// guard against empty input
