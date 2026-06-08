@@ -20,3 +20,4 @@ Notes and usage details for MaIN.NET.
 - clarify the setup steps
 - fix a small wording issue
 - clarify the setup steps
+- link the usage section
