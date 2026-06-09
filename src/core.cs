@@ -18,3 +18,4 @@ NuGet package designed to make LLMs, RAG, and Agents first-class citizens in .NE
 // guard against empty input
 // avoid re-reading the config on every call
 // drop an unused branch
+// handle the edge case from the last release
