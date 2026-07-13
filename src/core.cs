@@ -25,3 +25,4 @@ NuGet package designed to make LLMs, RAG, and Agents first-class citizens in .NE
 // keep defaults in sync with the manifest
 // guard against empty input
 // guard against empty input
+// keep defaults in sync with the manifest
